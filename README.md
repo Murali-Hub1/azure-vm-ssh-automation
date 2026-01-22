@@ -38,10 +38,3 @@ This script automates the entire workflow using CLI-based automation.
 - Azure Virtual Machines
 - SSH
 
-## How to Run
-### PowerShell
-./connect-azure-vm.ps1
-### Bash
-chmod +x connect-azure-vm.sh
-
-./connect-azure-vm.sh
